@@ -1,3 +1,3 @@
-![Task2.1](task2.1.png)
+![Task2.1](https://github.com/ppc-ntu-khpi/java-first-antonovs105/blob/main/Solution/task2.1.PNG)
 
-![Task2.2](task2.2.png)
+![Task2.2](https://github.com/ppc-ntu-khpi/java-first-antonovs105/blob/main/Solution/task2.2.PNG)
