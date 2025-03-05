@@ -1,2 +1,3 @@
-![[task2.1.png]]
-![[task2.2.png]]
+![Task2.1](task2.1.png)
+
+![Task2.2](task2.2.png)
